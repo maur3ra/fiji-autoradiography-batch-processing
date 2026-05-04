@@ -12,4 +12,4 @@ Usage:
 - Run macro
 - Output: ROI and measurement results
 
-Author: Oliver Hihn, Sophie Stotz, Andreas Maurer
+Authors: Oliver Hihn, Sophie Stotz, Andreas Maurer
