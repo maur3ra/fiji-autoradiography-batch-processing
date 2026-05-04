@@ -1,3 +1,8 @@
+// Fiji macro for autoradiography batch processing
+// Version: v1.1
+// Used in: A PET reporter ligand for quantitative imaging of gene expression in the brain
+// Authors: Oliver Hihn, Sophie Stotz, Andreas Maurer
+
 sourcePath = getDirectory("Select folder containing image sequence");
 File.makeDirectory("" + sourcePath + "/Documentation");
 File.makeDirectory("" + sourcePath + "/Result");
